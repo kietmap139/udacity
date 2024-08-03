@@ -1,0 +1,24 @@
+2024-08-03T13:33:54.941+0700 INFO Starting ECommerceApplication on LAPTOP-0TO4JBL3 with PID 2016 (C:\Users\TEMP\Downloads\ecommerce-application-master\ecommerce-application-master\target\classes started by kiet in C:\Users\TEMP\Downloads\ecommerce-application-master)
+2024-08-03T13:33:54.954+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2024-08-03T13:33:54.956+0700 INFO No active profile set, falling back to default profiles: default
+2024-08-03T13:33:59.093+0700 INFO Started ECommerceApplication in 4.453 seconds (JVM running for 13.55)
+2024-08-03T14:10:55.934+0700 INFO Starting ECommerceApplication on LAPTOP-0TO4JBL3 with PID 20372 (C:\Users\TEMP\Downloads\ecommerce-application-master\ecommerce-application-master\target\classes started by kiet in C:\Users\TEMP\Downloads\ecommerce-application-master)
+2024-08-03T14:10:55.956+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2024-08-03T14:10:55.957+0700 INFO No active profile set, falling back to default profiles: default
+2024-08-03T14:11:02.875+0700 INFO Started ECommerceApplication in 7.491 seconds (JVM running for 17.723)
+2024-08-03T14:11:11.060+0700 INFO Created user with username, kiet139.
+2024-08-03T14:37:16.016+0700 INFO Starting ECommerceApplication on LAPTOP-0TO4JBL3 with PID 8132 (C:\Users\TEMP\Downloads\ecommerce-application-master\ecommerce-application-master\target\classes started by kiet in C:\Users\TEMP\Downloads\ecommerce-application-master)
+2024-08-03T14:37:16.024+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2024-08-03T14:37:16.026+0700 INFO No active profile set, falling back to default profiles: default
+2024-08-03T14:37:20.319+0700 INFO Started ECommerceApplication in 4.619 seconds (JVM running for 13.718)
+2024-08-03T14:37:49.320+0700 INFO Starting ECommerceApplication on LAPTOP-0TO4JBL3 with PID 15624 (C:\Users\TEMP\Downloads\ecommerce-application-master\ecommerce-application-master\target\classes started by kiet in C:\Users\TEMP\Downloads\ecommerce-application-master)
+2024-08-03T14:37:49.337+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2024-08-03T14:37:49.337+0700 INFO No active profile set, falling back to default profiles: default
+2024-08-03T14:37:53.338+0700 INFO Started ECommerceApplication in 4.327 seconds (JVM running for 13.333)
+2024-08-03T15:46:56.161+0700 INFO Starting ECommerceApplication on LAPTOP-0TO4JBL3 with PID 12816 (C:\Users\TEMP\Downloads\ecommerce-application-master\ecommerce-application-master\target\classes started by kiet in C:\Users\TEMP\Downloads\ecommerce-application-master)
+2024-08-03T15:46:56.180+0700 DEBUG Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+2024-08-03T15:46:56.184+0700 INFO No active profile set, falling back to default profiles: default
+2024-08-03T15:47:01.594+0700 INFO Started ECommerceApplication in 5.904 seconds (JVM running for 15.015)
+2024-08-03T15:48:08.024+0700 INFO Created user with username, kiet139.
+2024-08-03T15:48:11.421+0700 INFO Created user with username, kiet1391.
+2024-08-03T15:48:14.682+0700 INFO Created user with username, kiet13911.
